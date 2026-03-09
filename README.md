@@ -162,7 +162,7 @@ This lab demonstrates several important cybersecurity concepts:
 ## Repository Structure
 
 ```
-scapy-packet-crafting-lab
+NETWORK-RECONNAISSANCE-SCAPY-WIRESHARK
 │
 ├── report
 │   └── scapy_lab_report.pdf
